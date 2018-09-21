@@ -1,0 +1,21 @@
+.icon{
+    font-size: 2em;
+}
+
+.container.main{
+
+}
+body{
+    
+    margin: 75px;
+    
+}
+.end{
+    
+    margin: 75px;
+    
+}
+
+#delete{
+    display: inline;
+}
